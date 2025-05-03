@@ -2,12 +2,7 @@
 
 import { useEffect, useState } from "react";
 import {
-  FiSend,
-  FiSearch,
-  FiMoreVertical,
-  FiPaperclip,
-  FiSmile,
-} from "react-icons/fi";
+  FiSend,} from "react-icons/fi";
 import { useData } from "@/providers/dataProvider";
 import { useAuth } from "@/providers/authProvider";
 import { sendChat } from "../../api/chat";

@@ -1,6 +1,4 @@
-import { PiDotsThreeOutlineVerticalFill } from "react-icons/pi";
-import { GoDotFill } from "react-icons/go";
-import { FaRegDotCircle } from "react-icons/fa";
+
 import { FiPlus } from "react-icons/fi";
 import LessonCard from "../components/lesson-card";
 export default function Home() {
